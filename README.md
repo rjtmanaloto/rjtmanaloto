@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>College Thesis</b>
+  - [Libis Gardening with A Sales Prediction Using Random Forest Tree Regression Algorithm](https://github.com/rjtmanaloto/Libis-Gardening-With-a-Sales-Prediction-Using-Random-Forest-Tree-Regression-Algorithm)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
