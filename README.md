@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>College Thesis</b>
+- <b>College Thesis (Website using Complex Algorithm)</b>
   - [Libis Gardening with A Sales Prediction Using Random Forest Tree Regression Algorithm](https://github.com/rjtmanaloto/Libis-Gardening-With-a-Sales-Prediction-Using-Random-Forest-Tree-Regression-Algorithm)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
