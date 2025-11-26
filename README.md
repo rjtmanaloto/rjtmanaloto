@@ -9,7 +9,7 @@
 
 <h3>👨‍💻 Software Development Projects:</h2>
 
-- <b>College Thesis (Website using Complex Algorithm)</b>
+- <b>College Thesis</b>
   - [Libis Gardening with A Sales Prediction Using Random Forest Tree Regression Algorithm](https://github.com/rjtmanaloto/Libis-Gardening-With-a-Sales-Prediction-Using-Random-Forest-Tree-Regression-Algorithm)
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
