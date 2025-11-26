@@ -1,12 +1,13 @@
 <h1>Hi, I'm Rickjordan! <br/>
-BS Computer Science Graduate | CSE Passer  <br/> 
-Proficient in Excel, SQL, Power BI, Premiere, Photoshop, and Canva <br/>
+
+<h2>• BS Computer Science Graduate | CSE Passer  <br/> 
+• Proficient in Excel, SQL, Power BI, Premiere, Photoshop, and Canva <br/>
 
 <!--
 <a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 -->
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h3>👨‍💻 Software Development Projects:</h2>
 
 - <b>College Thesis (Website using Complex Algorithm)</b>
   - [Libis Gardening with A Sales Prediction Using Random Forest Tree Regression Algorithm](https://github.com/rjtmanaloto/Libis-Gardening-With-a-Sales-Prediction-Using-Random-Forest-Tree-Regression-Algorithm)
@@ -38,7 +39,7 @@ Proficient in Excel, SQL, Power BI, Premiere, Photoshop, and Canva <br/>
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 -->
 
-<h2> 📫 How to reach me:</h2>
+<h3> 📫 How to reach me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
