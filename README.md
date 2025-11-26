@@ -11,8 +11,6 @@
 
 - <b>College Thesis</b>
   - [Libis Gardening with A Sales Prediction Using Random Forest Tree Regression Algorithm](https://github.com/rjtmanaloto/Libis-Gardening-With-a-Sales-Prediction-Using-Random-Forest-Tree-Regression-Algorithm)
-- <b>Microsoft and LinkedIn Learning</b>
-  - [Libis Gardening with A Sales Prediction Using Random Forest Tree Regression Algorithm](https://github.com/rjtmanaloto/Libis-Gardening-With-a-Sales-Prediction-Using-Random-Forest-Tree-Regression-Algorithm)
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -41,7 +39,7 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 -->
 
-<h3> 📫 How to reach me:</h2>
+<!--<h3> 📫 How to reach me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -53,7 +51,7 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
+
 **rjtmanaloto/rjtmanaloto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
