@@ -3,14 +3,13 @@
 <h2>• BS Computer Science Graduate | CSE Passer  <br/> 
 • Proficient in Excel, SQL, Power BI, Premiere, Photoshop, and Canva <br/>
 
-<!--
-<a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
--->
-
 <h3>👨‍💻 Software Development Projects:</h2>
-
 - <b>College Thesis</b>
   - [Libis Gardening with A Sales Prediction Using Random Forest Tree Regression Algorithm](https://github.com/rjtmanaloto/Libis-Gardening-With-a-Sales-Prediction-Using-Random-Forest-Tree-Regression-Algorithm)
+
+<h3>👨‍💻 Data Analysis Projects:</h2>
+- <b>Microsoft Excel</b>
+  - [HR Employee Attrition Analysis](https://github.com/rjtmanaloto/Libis-Gardening-With-a-Sales-Prediction-Using-Random-Forest-Tree-Regression-Algorithm)
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
