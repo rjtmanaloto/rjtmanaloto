@@ -1,6 +1,6 @@
 <h1>Hi, I'm Rickjordan! <br/></h1>
 
-<h3>• BS Computer Science Graduate | CSE Passer</h3> 
+<h3>• Computer Science Graduate | CSE Passer</h3> 
 <h3>• Proficient in Excel, SQL, Power BI, Premiere, Photoshop, and Canva</h3>
 <h2></h2>
 
