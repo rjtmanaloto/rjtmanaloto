@@ -10,7 +10,7 @@
   - [HR Employee Attrition Analysis](https://github.com/rjtmanaloto/HR-Employee-Attrition-Analysis)
  
 - <b>SQL</b>
-  - [Anime Dataset Analysis](https://github.com/rjtmanaloto/HR-Employee-Attrition-Analysis)
+  - [Anime Dataset Analysis](https://github.com/rjtmanaloto/Anime-Dataset-Analysis-in-SQL)
 
 <h3>👨‍💻 Software Development Projects:</h3>
 
