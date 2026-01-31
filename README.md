@@ -11,7 +11,7 @@
  
 - <b>SQL</b>
   - [Anime Dataset Analysis](https://github.com/rjtmanaloto/HR-Employee-Attrition-Analysis)
-  
+
 <h3>👨‍💻 Software Development Projects:</h3>
 
 - <b>College Thesis</b>
