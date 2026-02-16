@@ -7,7 +7,7 @@
 <h3>👨‍💻 Data Analysis Projects:</h3>
 
 - <b>Power BI</b>
-  - [2020 Project Funding Analysis](https://github.com/rjtmanaloto/Anime-Dataset-Analysis-in-SQL)
+  - [2020 Project Funding Analysis](https://github.com/rjtmanaloto/2020-Project-Funding-Analysis-Using-Power-BI)
 
 - <b>Microsoft Excel</b>
   - [HR Employee Attrition Analysis](https://github.com/rjtmanaloto/HR-Employee-Attrition-Analysis)
