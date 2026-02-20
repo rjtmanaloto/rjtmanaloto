@@ -8,12 +8,15 @@
 
 - <b>Power BI</b>
   - [2020 Project Funding Analysis](https://github.com/rjtmanaloto/2020-Project-Funding-Analysis-Using-Power-BI)
-
 - <b>Microsoft Excel</b>
   - [HR Employee Attrition Analysis](https://github.com/rjtmanaloto/HR-Employee-Attrition-Analysis)
- 
 - <b>SQL</b>
   - [Anime Dataset Analysis](https://github.com/rjtmanaloto/Anime-Dataset-Analysis-in-SQL)
+
+<h3>👨‍💻 Market Research, Real Estate, and Financial Feasibility Analyis Projects using AI Tools:</h3>
+
+- <b>ChatGPT, Gemini, Manus, Perplexity, Claude</b>
+  - [Stall Rental vs Storage Rental Profitability Analysis using AI Tools]()
 
 <h3>👨‍💻 Software Development Projects:</h3>
 
