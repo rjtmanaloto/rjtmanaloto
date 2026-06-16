@@ -14,7 +14,7 @@
 - <b>SQL</b>
   - [Anime Dataset Analysis](https://github.com/rjtmanaloto/Anime-Dataset-Analysis-in-SQL)
 - <b>AI Tools</b>
-  - [Pampanga Vs. Tarlac Self Storage Feasibility Study](https://github.com/rjtmanaloto/Pampanga-vs.-Tarlac-Self-Storage-Feasibility-Study)
+  - [Pampanga Vs. Tarlac: Self Storage Feasibility Study](https://github.com/rjtmanaloto/Pampanga-vs.-Tarlac-Self-Storage-Feasibility-Study)
 
 <!--<h3>👨‍💻 Market Research, Real Estate, and Financial Feasibility Analyis Projects using AI Tools:</h3>
 
