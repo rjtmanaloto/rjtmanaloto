@@ -2,7 +2,7 @@
 
 <h3>• AI Data Annotator</h3>
 <h3>• Computer Science Graduate | CSE Passer</h3> 
-<h3>• Proficient in Power BI, SQL, Excel, Microsoft Office Suite, AI Tools, Adobe Suite</h3>
+<h3>• Proficient in Python, Power BI, SQL, Excel, Microsoft Office Suite, AI Tools, Adobe Suite</h3>
 <h2></h2>
 
 <h3>👨‍💻 Data Analysis Projects:</h3>
