@@ -16,10 +16,10 @@
 - <b>AI Tools</b>
   - [Pampanga Vs. Tarlac: Self Storage Feasibility Study](https://github.com/rjtmanaloto/Pampanga-vs.-Tarlac-Self-Storage-Feasibility-Study)
 
-<!--<h3>👨‍💻 Market Research, Real Estate, and Financial Feasibility Analyis Projects using AI Tools:</h3>
+<h3>👨‍💻 Cybersecurity Projects:</h3>
 
-- <b>ChatGPT, Gemini, Manus, Perplexity, Claude</b>
-  - [Stall Rental vs Storage Rental Profitability Analysis using AI Tools]()-->
+- <b>Python</b>
+  - [Password Strength Checker and Generator Using Python](https://github.com/rjtmanaloto/Password-Strength-Checker-and-Generator-Using-Python)
 
 <h3>👨‍💻 Software Development Projects:</h3>
 
