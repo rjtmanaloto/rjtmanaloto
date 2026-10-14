@@ -20,6 +20,8 @@
 
 - <b>Python</b>
   - [Password Strength Checker and Generator Using Python](https://github.com/rjtmanaloto/Password-Strength-Checker-and-Generator-Using-Python)
+- <b>Python</b>
+  - [Home Network Security Audit](https://github.com/rjtmanaloto/Home-Network-Security-Audit)
 
 <h3>Software Development Projects</h3>
 
