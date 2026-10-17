@@ -10,7 +10,7 @@
 - <b>Power BI</b>
   - [2020 Project Funding Analysis Using Power BI](https://github.com/rjtmanaloto/2020-Project-Funding-Analysis-Using-Power-BI)
 - <b>Microsoft Excel</b>
-  - [HR Employee Attrition Analysis](https://github.com/rjtmanaloto/HR-Employee-Attrition-Analysis)
+  - [HR Employee Attrition Analysis Using Excel](https://github.com/rjtmanaloto/HR-Employee-Attrition-Analysis-Using-Excel)
 - <b>SQL</b>
   - [Anime Dataset Analysis Using SQL](https://github.com/rjtmanaloto/Anime-Dataset-Analysis-Using-SQL)
 - <b>AI Tools</b>
