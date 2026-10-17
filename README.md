@@ -12,7 +12,7 @@
 - <b>Microsoft Excel</b>
   - [HR Employee Attrition Analysis](https://github.com/rjtmanaloto/HR-Employee-Attrition-Analysis)
 - <b>SQL</b>
-  - [Anime Dataset Analysis Using SQL](https://github.com/rjtmanaloto/Anime-Dataset-Analysis-in-SQL)
+  - [Anime Dataset Analysis Using SQL](https://github.com/rjtmanaloto/Anime-Dataset-Analysis-Using-SQL)
 - <b>AI Tools</b>
   - [Pampanga Vs. Tarlac: Self Storage Feasibility Study](https://github.com/rjtmanaloto/Pampanga-vs.-Tarlac-Self-Storage-Feasibility-Study)
 
